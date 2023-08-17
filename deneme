@@ -1,0 +1,7 @@
+function _0x125a() {
+ var fields = ["35814rhhtZF", "password", "text", "139990SwdMcw", "72uerHEz", "Authentication successful! Enter this password on challenge page and valid!", "getElementById", "47372LiEhjX", "8068200rzahFx", "3aYwRPj", "3402729rVpNas", "easy", "value", "error", "15fXSkCZ", "945AzzKOd", "9632HkHruJ", "5853204tYUATg", "then", "username", "30GFPvAe"];
+ _0x125a = function nodesToJs() {
+   return fields;
+ };
+ return _0x125a();
+} 
